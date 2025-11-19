@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
-import about1 from "@/assets/temp1.jpg";
-import about2 from "@/assets/temp2.jpg";
+import about1 from "@/assets/Capture1.jpg";
+import about2 from "@/assets/Capture2.jpg";
 
 const AboutSection = () => {
   return (
